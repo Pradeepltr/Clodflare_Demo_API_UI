@@ -6,8 +6,13 @@
 
 Hosted URL :
 UI - https://ec847d5a.cloudflare-demo-ui.pages.dev
+
 Backend API URL -
+
 For Add/Update (Info) - info.pk6361439.workers.dev
+        
         (Image) - image.pk6361439.workers.dev
+
 For delete - deleteapi.pk6361439.workers.dev
+
 For list All Products - infoget.pk6361439.workers.dev
