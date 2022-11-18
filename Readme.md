@@ -7,5 +7,5 @@
 Hosted URL :
 UI - https://ec847d5a.cloudflare-demo-ui.pages.dev
 
-Backend API - Please check one by one Folder and know better about flow of backend part
+Backend API - Please check one by one (APIs) Folder and know better about flow of backend part
 
